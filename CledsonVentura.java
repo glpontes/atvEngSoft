@@ -1,6 +1,8 @@
 public class CledsonVentura{
 	public static void main(String []args) {
-		System.out.println("Ola Analia");
-		
+		int numA = 5;
+		int numB = 10;
+		int soma = numA+numB;
+		System.out.println("Resultado:"+soma);
 	}
 }
